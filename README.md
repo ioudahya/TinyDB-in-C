@@ -11,5 +11,5 @@ The use of threads is very important to be particularly fast and efficient.
 
 # to run the code
 
-./tinydb <path to db>
+./tinydb path-to-db
 
